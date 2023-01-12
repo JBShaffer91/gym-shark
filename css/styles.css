@@ -70,6 +70,7 @@ a {
 }
 
 .signup {
+  /* put singup form in a box */
   width: 80%;
   margin: 0 auto;
   margin-top: 10px;
